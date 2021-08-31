@@ -1,5 +1,5 @@
 # TODO: Write docstring here
-"""Hype Machine"""
+"""Hype Machine."""
 
 
 name: str = input("What is your name? ")
