@@ -1,4 +1,7 @@
 # TODO: Write docstring here
+"""Hype Machine"""
+
+
 name: str = input("What is your name? ")
 print("You entered: ")
 print(name)

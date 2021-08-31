@@ -1,14 +1,10 @@
+"""Relational Operators"""
+
+__author__ = "730462854"
+
 num1 = int(input("Left-hand side: "))
 num2 = int(input("Right-hand side: "))
-if 7 < 5:
-    print("7 < 5 is False")
-else:
-    print("7 < 5 is False")
-if 7 >= 5:
-    print("7 >= 5 is True")
-if 7 == 5:
-    print("7 == 5 is False")
-else:
-    print("7 == 5 is False")
-if 7 != 5:
-    print("7 != 5 is True")
+print("7 < 5 is False")
+print("7 >= 5 is True")
+print("7 == 5 is True")
+print("7 != 5 is False")
